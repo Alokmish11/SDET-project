@@ -1,2 +1,2 @@
 # SDET-project
-OrangeHrm website Web Application
+"OrangeHrm Website" Web Application
